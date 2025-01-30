@@ -1,0 +1,5 @@
+#!/bin/bash
+
+cd /opt/PHANTX/routersploit
+
+python3 rsf.py "$@"
